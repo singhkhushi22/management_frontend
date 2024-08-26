@@ -1,5 +1,5 @@
 {
-  "proxy": "http://localhost:8080",
+  "proxy": "https://management-backend-1.onrender.com",
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
